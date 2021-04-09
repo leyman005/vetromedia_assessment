@@ -1,0 +1,110 @@
+
+.blog-header-logo {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-size: 2.25rem;
+}
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+}
+
+input.parsley-success,
+select.parsley-success,
+textarea.parsley-success {
+  color: #468847;
+  background-color: #DFF0D8;
+  border: 1px solid #D6E9C6;
+}
+
+input.parsley-error,
+select.parsley-error,
+textarea.parsley-error {
+  color: #B94A48;
+  background-color: #F2DEDE;
+  border: 1px solid #EED3D7;
+}
+
+.parsley-errors-list {
+  margin: 2px 0 3px;
+  padding: 0;
+  list-style-type: none;
+  font-size: 0.9em;
+  line-height: 0.9em;
+  opacity: 0;
+  color: #B94A48;
+
+  transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -webkit-transition: all .3s ease-in;
+}
+
+.parsley-errors-list.filled {
+  opacity: 1;
+}
+
+.starbox
+{
+  direction: rtl;
+}
+
+.starbox a
+{
+  font-size: 35px!important;
+  color: #313131!important;
+  transition: all 0.3s linear!important;
+}
+
+.starbox a:hover
+{
+  color: #f1c40f!important;
+}
+
+.b1:hover ~a
+{
+  color: #f1c40f!important;
+}
+
+.b2:hover ~a
+{
+  color: #f1c40f!important;
+}
+
+.b3:hover ~a
+{
+  color: #f1c40f!important;
+}
+
+.b4:hover ~a
+{
+  color: #f1c40f!important;
+}
+
+.b5:hover ~a
+{
+  color: #f1c40f!important;
+}
+
+.newColor5 ~a
+{
+  color: #f1c40f!important;
+}
+.newColor4 ~a
+{
+  color: #f1c40f!important;
+}
+.newColor3 ~a
+{
+  color: #f1c40f!important;
+}
+.newColor2 ~a
+{
+  color: #f1c40f!important;
+}
+.newColor1 ~a
+{
+  color: #f1c40f!important;
+}
